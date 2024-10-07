@@ -10,4 +10,3 @@ print(point_x > point_y and point_z > point_x)
 
 
 
-

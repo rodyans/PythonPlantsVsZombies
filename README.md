@@ -22,8 +22,3 @@ $ python main.py
   * level 3: night level
   * level 4: moving card select level
   * level 5: wallnut bowling level
-
-# Demo
-![demo1](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo1.jpg)
-![demo2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
-
